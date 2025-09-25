@@ -1,0 +1,12 @@
+*.pyc
+tmp/*
+*.zip
+dataset*.pkl
+synthesis*.pkl
+*.data
+*.html
+*.txt
+*.log
+ae/cut_type
+ae/ibm_alg
+ae/scatter_steps
