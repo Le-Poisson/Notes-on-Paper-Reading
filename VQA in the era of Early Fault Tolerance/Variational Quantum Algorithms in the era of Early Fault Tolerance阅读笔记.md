@@ -74,3 +74,4 @@ FTQC 范式指的是 容错量子计算（Fault-Tolerant Quantum Computing） �
 横向的概念参考 `什么是横向门.md`。
 
 论文讨论如何实现非 Clifford 门操作，尤其是 T 门（论文中称为称为 T 态浓缩）
+
