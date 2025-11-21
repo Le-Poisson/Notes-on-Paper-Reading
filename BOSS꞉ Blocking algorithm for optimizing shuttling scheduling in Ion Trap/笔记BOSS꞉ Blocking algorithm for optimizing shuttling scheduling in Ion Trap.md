@@ -38,7 +38,7 @@
 
 <img src="img/2.png">
 
-(我觉得上面这个算法1伪代码有问题，写得很不清楚，一旦进入if的第二个分支会进入死循环。论文完全没讲 `FindProperSwap()` 和 `FindProperTapeMovement()`。而且，谁用 $\pi$ 做映射的标记符号啊，真的很容易被误解的好吧)
+(我觉得上面这个算法1伪代码有问题，写得很不清楚，一旦进入if的第二个分支会进入死循环。论文完全没讲 `FindProperSwap()` 和 `FindProperTapeMovement()`)
 
 算法流程：
 
